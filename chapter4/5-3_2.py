@@ -1,3 +1,5 @@
+# 2. lena 영상을 이용하여 가중 평균 값 필터링을 수행하시오.
+# 마스크는 그림 4-7의 3x3과 5x5 마스크를 사용하여 각각의 결과를 한 화면에 출력하고, 원본 이미지와 비교하시오.
 import numpy as np
 from scipy import signal, misc
 import matplotlib.pyplot as plt
